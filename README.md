@@ -1,7 +1,7 @@
 # Experimental Analysis
 Анализ эффективности новой механики оплаты в рамках A/B-тестирования и оптимизация пользовательского опыта на образовательной платформе
 
-Исследование выполнено с использованием Jupyter Notebook на языке программирования Python и SQL. В процессе анализа данных применялись следующие библиотеки py: pandas, requests, urllib.parse (urlencode), numpy, scipy.stats (ttest_ind, chi2_contingency), seaborn, pandahouse, matplotlib.
+Исследование выполнено с использованием Jupyter Notebook на языках программирования Python и SQL. В процессе анализа данных применялись следующие библиотеки py: pandas, requests, urllib.parse (urlencode), numpy, scipy.stats (ttest_ind, chi2_contingency), seaborn, pandahouse, matplotlib.
 
 Задачи для Анализа:
 
